@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Questionnaire</string>
+    <string name="title"><b>Form</b></string>
+    <string name="studentName">Name</string>
+    <string name="studentLocation">Location</string>
+    <string-array name="locations">
+        <item>Location</item>
+        <item>Marosvasarhely</item>
+        <item>Csikszereda</item>
+        <item>Szekelyudvarhely</item>
+        <item>Kezdivasarhely</item>
+        <item>Kolozsvar</item>
+        <item>Nagyvarad</item>
+        <item>Gyulafehervar</item>
+        <item>Brasso</item>
+        <item>Szatmarnemeti</item>
+    </string-array>
+    <string name="studentPicture">Profile picture</string>
+    <string name="studentBirthday">Date of birth</string>
+    <string name="studentPickDateBtn">Pick a date</string>
+    <string name="studentGender">Gender</string>
+    <string name="studentMale">Male</string>
+    <string name="studentFemale">Female</string>
+    <string name="studentHobbies">Hobbies</string>
+    <string name="option1">Football</string>
+    <string name="option2">Reading</string>
+    <string name="option3">Hiking</string>
+    <string name="option4">Programming</string>
+    <string name="studentDepartment">Department</string>
+    <string-array name="departments">
+        <item>Department</item>
+        <item>Agricultural Engineering</item>
+        <item>Automation and applied informatics</item>
+        <item>Communication and public relations</item>
+        <item>Computer science</item>
+        <item>Computer-aided operation planning</item>
+        <item>Horticultural engineering</item>
+        <item>Information science</item>
+        <item>Landscape architecture</item>
+        <item>Mechatronics</item>
+        <item>Public Health Services and Policies</item>
+        <item>Telecommunication</item>
+        <item>Translation and interpreting studies</item>
+    </string-array>
+    <string name="studentYearOfStudy">Year of study</string>
+    <string name="studentFirstYear">First year</string>
+    <string name="studentSecondYear">Second year</string>
+    <string name="studentThirdYear">Third year</string>
+    <string name="studentFourthYear">Fourth year</string>
+    <string name="studentExpectations">Expectations</string>
+    <string name="studentAddBtn">Add student</string>
+
+    <string name="resultsTitle">Students</string>
+
+</resources>
